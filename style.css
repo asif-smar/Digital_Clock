@@ -1,0 +1,28 @@
+body{
+    background-color: black;
+}
+.clock{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    font-size: 3vw;
+    font-family: 'Poppins', sans-serif;
+    color: #F1F8E9;
+    text-shadow: 0 0 10px #76FF03,
+                 0 0 20px #76FF03,
+                 0 0 40px #76FF03;
+               
+
+
+}
+.brand{
+    margin-left: 10vw;
+    
+}
+#time{
+    letter-spacing: 0.3vw;
+    position: absolute;
+
+}
+
